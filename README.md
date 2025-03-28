@@ -1,4 +1,4 @@
-# Kazuate Game
+# ❓ Kazuate Game
 ```
 入力してください>50
 50より大きいです
